@@ -1,0 +1,25 @@
+{
+  "name": "cyworld-photo-scraper",
+  "version": "1.0.0",
+  "description": "Cyworld Photo Book Bulk Scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "tsc"
+  },
+  "keywords": [
+    "cyworld"
+  ],
+  "author": "Yowu <me@yowu.dev>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/luxon": "^1.24.0",
+    "@types/node": "^14.0.13",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "luxon": "^1.24.1"
+  }
+}

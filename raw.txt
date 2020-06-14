@@ -1,0 +1,87 @@
+<div class="postlist_area">
+
+					<h2 class="h2_timeline" data-dt="2011.1">2011.01</h2>
+					<ul class="list_timeline">
+						<li class="timeline_img" style="height: 239px;">
+							<a href="javascript:viewDetail(0,'Y');"><img style="width:239px; height:239px;" src="http://nthumb.cyworld.com/thumb?width=239&amp;height=239&amp;url=http%3A%2F%2Fcyimg33.cyworld.com%2Fcommon%2Ffile_down.asp%3Fredirect%3D%252F330006%252F2011%252F1%252F28%252F90%252F20110128154652_42657690.jpg" onerror="this.src='http://c1img.cyworld.co.kr/img/timeimg/common/myhome_nonimg_contents.jpg'"></a>
+							<span>01.28</span>
+							<div class="post-card"><!-- D//-->
+								<em class="post-card__lc">
+									<i class="icon-like-filled"></i>
+									0 
+								</em>
+								<em class="post-card__cc">
+									<i class="icon-reply-filled"></i>
+									0
+								</em>
+							</div>
+
+						</li>
+
+
+						<li class="timeline_img" style="height: 239px;">
+							<a href="javascript:viewDetail(2,'Y');"><img style="width:239px; height:239px;" src="http://nthumb.cyworld.com/thumb?width=239&amp;height=239&amp;url=http%3A%2F%2Fc2down.cyworld.co.kr%2Fdownload%3Ffid%3D64222d86ad48abeffcac2db4566b2878%26name%3DCUK.jpg" onerror="this.src='http://c1img.cyworld.co.kr/img/timeimg/common/myhome_nonimg_contents.jpg'"></a>
+							<span>01.24</span>
+							<div class="post-card"><!-- D//-->
+								<em class="post-card__lc">
+									<i class="icon-like-filled"></i>
+									0 
+								</em>
+								<em class="post-card__cc">
+									<i class="icon-reply-filled"></i>
+									5
+								</em>
+							</div>
+
+						</li>
+					
+
+						<li class="timeline_img" style="height: 239px;">
+							<a href="javascript:viewDetail(3,'Y');"><img style="width:239px; height:239px;" src="http://nthumb.cyworld.com/thumb?width=239&amp;height=239&amp;url=http%3A%2F%2Fc2down.cyworld.co.kr%2Fdownload%3Ffid%3D64222d86ad48abeff4b22db439902678%26name%3D001.jpg" onerror="this.src='http://c1img.cyworld.co.kr/img/timeimg/common/myhome_nonimg_contents.jpg'"></a>
+							<span>01.24</span>
+							<div class="post-card"><!-- D//-->
+								<em class="post-card__lc">
+									<i class="icon-like-filled"></i>
+									0 
+								</em>
+								<em class="post-card__cc">
+									<i class="icon-reply-filled"></i>
+									0
+								</em>
+							</div>
+
+						</li>
+					
+						<li class="timeline_img" style="height: 239px;">
+							<a href="javascript:viewDetail(4,'Y');"><img style="width:239px; height:239px;" src="http://nthumb.cyworld.com/thumb?width=239&amp;height=239&amp;url=http%3A%2F%2Fcyimg33.cyworld.com%2Fcommon%2Ffile_down.asp%3Fredirect%3D%252F330022%252F2011%252F1%252F18%252F80%252F%25C0%25AF%25BF%25EB%25BF%25EC.jpg" onerror="this.src='http://c1img.cyworld.co.kr/img/timeimg/common/myhome_nonimg_contents.jpg'"></a>
+							<span>01.18</span>
+							<div class="post-card"><!-- D//-->
+								<em class="post-card__lc">
+									<i class="icon-like-filled"></i>
+									0 
+								</em>
+								<em class="post-card__cc">
+									<i class="icon-reply-filled"></i>
+									3
+								</em>
+							</div>
+
+						</li>
+					
+
+						<li class="timeline_img" style="height: 239px;">
+							<a href="javascript:viewDetail(5,'Y');"><img style="width:239px; height:239px;" src="http://nthumb.cyworld.com/thumb?width=239&amp;height=239&amp;url=http%3A%2F%2Fcyimg33.cyworld.com%2Fcommon%2Ffile_down.asp%3Fredirect%3D%252F330020%252F2011%252F1%252F18%252F54%252F%25B4%25EB%25C7%25D0%25C0%25DB%25B9%25AE%25C7%25D0%25C8%25B8.jpg" onerror="this.src='http://c1img.cyworld.co.kr/img/timeimg/common/myhome_nonimg_contents.jpg'"></a>
+							<span>01.18</span>
+							<div class="post-card"><!-- D//-->
+								<em class="post-card__lc">
+									<i class="icon-like-filled"></i>
+									0 
+								</em>
+								<em class="post-card__cc">
+									<i class="icon-reply-filled"></i>
+									3
+								</em>
+							</div>
+
+						</li>
+				
